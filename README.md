@@ -1,2 +1,2 @@
 ## HealthCare App
-A mobile application that facilitates making appointments.
+An Android App to make an appointment for a Doctor on fews clicks.
